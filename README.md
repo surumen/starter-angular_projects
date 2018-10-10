@@ -13,9 +13,6 @@
     <a href="https://david-dm.org/me-io/angular-2-starter?type=dev">
       <img src="https://img.shields.io/david/dev/me-io/angular-2-starter.svg?style=flat-square" alt="devDependencies">
     </a> 
-    <a href="https://www.paypal.me/meabed">
-      <img src="https://img.shields.io/badge/paypal-donate-179BD7.svg?style=flat-squares" alt="Donate">
-    </a>
   </p>
 </p>
 
